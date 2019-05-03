@@ -2,7 +2,7 @@ Kaunas Coding School projektas
 
 Tikslas:
 
-Sukurti/patobulinti Python programa, kuri patikrintu gauta vaizdine(video) medžiaga, atrinktu atitinkamus logotipus ir nustatytu kiek sekundžiu matesi nurodytas logotipas.
+Sukurti/patobulinti Python programą, kuri patikrintų gautą vaizdinę(video) medžiagą, atrinktų atitinkamus logotipus ir nustatytų kiek sekundžių matėsi nurodytas logotipas.
 
 Possible libraries to be used:
 
