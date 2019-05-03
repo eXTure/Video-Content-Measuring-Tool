@@ -2,4 +2,20 @@ Kaunas Coding School projektas
 
 Tikslas:
 
-Sukurti/patobulinti Python programa, kuri patikrintu gauta vaizdine(video) medûiaga, atrinktu atitinkamus logotipus ir nustatytu kiek sekundûiu matesi nurodytas logotipas.
+Sukurti/patobulinti Python programa, kuri patikrintu gauta vaizdine(video) med≈æiaga, atrinktu atitinkamus logotipus ir nustatytu kiek sekund≈æiu matesi nurodytas logotipas.
+
+Possible ibraries to be used:
+
+- Tensorflow
+
+- Numpy
+
+- SciPy
+
+- OpenCV
+
+- Matplotlib
+
+- h5py
+
+- Keras
