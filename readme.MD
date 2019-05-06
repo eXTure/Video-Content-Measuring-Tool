@@ -1,8 +1,6 @@
-Kaunas Coding School projektas
+Kaunas Coding School project
 
-Tikslas:
-
-Sukurti/patobulinti Python programą, kuri patikrintų gautą vaizdinę(video) medžiagą, atrinktų atitinkamus logotipus ir nustatytų kiek sekundžių matėsi nurodytas logotipas.
+Aim of this project is to create Python program to measure how long a logo is visible in a given video. Logos would be pre-defined.
 
 Possible libraries to be used:
 
