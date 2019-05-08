@@ -1,6 +1,6 @@
-#Kaunas Coding School project
+# Kaunas Coding School project
 
-Aim of this project is to create Python program to measure how long a logo is visible in a given video. Logos would be pre-defined.
+Aim of this project is to create Python program to measure how long a logo is visible in a given video.
 
 **Libraries to be used:**
 	Tensorflow
@@ -25,7 +25,7 @@ https://github.com/OlafenwaMoses/ImageAI
 	pip install h5py
 	pip install keras
 	pip install pillow
-	pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl 
+	pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl 
 ```	
 
 Resources: 
