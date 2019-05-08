@@ -1,8 +1,8 @@
-Kaunas Coding School project
+#Kaunas Coding School project
 
 Aim of this project is to create Python program to measure how long a logo is visible in a given video. Logos would be pre-defined.
 
-Libraries to be used:
+**Libraries to be used:**
 	Tensorflow
 	Numpy
 	SciPy
@@ -15,8 +15,8 @@ Libraries to be used:
 	
 https://github.com/OlafenwaMoses/ImageAI
 
-Python version 3.6.* is needed. (Tensorflow only supports python up to 3.6.*)
-
+**Python version 3.6.* is needed. (Tensorflow only supports python up to 3.6.*)**
+```
 	pip install tensorflow
 	pip install numpy
 	pip install scipy
@@ -26,7 +26,9 @@ Python version 3.6.* is needed. (Tensorflow only supports python up to 3.6.*)
 	pip install keras
 	pip install pillow
 	pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl 
-	
-Download and add to project folder https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5
+```	
 
-Source: https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
+Resources: 
+https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
+https://docs.opencv.org/master/d1/dc5/tutorial_background_subtraction.html
+https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md
