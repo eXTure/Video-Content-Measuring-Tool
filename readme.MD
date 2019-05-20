@@ -32,3 +32,4 @@ Resources:
 https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
 https://docs.opencv.org/master/d1/dc5/tutorial_background_subtraction.html
 https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md
+https://medium.com/coinmonks/detecting-custom-objects-in-images-video-using-yolo-with-darkflow-1ff119fa002f
