@@ -2,10 +2,12 @@
 
 Aim of this project is to create Python program to measure how long a logo is visible in a given video.
 
+### Important!
+**Python version 3.6 is needed. (Tensorflow only supports python up to 3.6)**
 
 **How to run**
 
-First, install the following libraries, then run main.py
+1. Install the following libraries:
 	
 Tensorflow 
 `pip install tensorflow` or ```pip install tensorflow-gpu``` for the gpu powered version
@@ -34,8 +36,13 @@ Pillow
 ImageAI
 `pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl`
 
+2. If you have your own model for detecting objects, add the model file to the same folder as the project and change the following line:
+`detector.setModelPath(execution_path + "\\your_model.h5")`
 
-**Python version 3.6 is needed. (Tensorflow only supports python up to 3.6)**	
+3. Add the video, that you want to measure, to the same folder as the project and then edit the following line:
+`input_file_path=(execution_path + "\\your_video.mp4")`
+
+4. Run Main.py
 
 **Resources:**
 https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
