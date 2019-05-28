@@ -36,7 +36,7 @@ def main():
     detector.detectCustomObjectsFromVideo(
         custom_objects=custom_objects, 
         input_file_path=(execution_path + "\\molde_short_new.mp4"),
-        output_file_path=(execution_path + "\\output\\persons_detected"), 
+        output_file_path=(execution_path + "\\output\\objects_detected"), 
         frames_per_second=30, 
         per_second_function=forSeconds,
         per_frame_function=forFrame,
