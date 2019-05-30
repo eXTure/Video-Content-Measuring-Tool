@@ -1,5 +1,7 @@
 from imageai.Detection import VideoObjectDetection
-import os
+import os, logging
+
+logging.basicConfig(level=logging.DEBUG, filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
 
 execution_path = os.getcwd()
 
@@ -11,26 +13,27 @@ detector.loadModel()
 custom_objects = detector.CustomObjects(person=True)
 
 total_seconds = 0
-object_visable = 0
+object_visible = 0
 frame_count = 0
 
 def forFrame(frame_number, output_array, output_count):
-    print("Output count for unique objects : ", output_count)
     global frame_count
     if "person" in output_count:
         frame_count += 1
-        print(frame_count)
+        logging.info("Frames with visible objects: %s", frame_count)
+    else:
+        logging.info("No objects visable")
 
 def forSeconds(second_number, output_arrays, count_arrays, average_output_count):
-    print("SECOND : ", second_number)
-    print(count_arrays)
+    logging.info("SECOND : %s", second_number)
+    logging.info(count_arrays)
     global total_seconds
     total_seconds += 1
 
 def forFull(output_arrays, count_arrays, average_output_count):
-    object_visable = frame_count/30
-    print("Video duration: ", total_seconds, " seconds")
-    print("Object visable for ", object_visable, " seconds")
+    object_visible = frame_count/30
+    logging.info("Video duration: %s seconds", total_seconds)
+    logging.info("Object visable for %s seconds", object_visible)
 
 def main():
     detector.detectCustomObjectsFromVideo(
