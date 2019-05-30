@@ -42,7 +42,7 @@ ImageAI
 3. Add the video, that you want to measure, to the same folder as the project and then edit the following line:
 `input_file_path=(execution_path + "\\your_video.mp4")`
 
-4. Run Main.py
+4. Run Main.py. After the process is finished, you can check the video, with marked objects, in output folder.
 
 **Resources:**
 https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
