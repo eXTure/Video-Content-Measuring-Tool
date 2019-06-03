@@ -1,0 +1,101 @@
+tensorflow - WARNING - From C:\Users\tomas\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - SECOND : 1
+root - INFO - [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - Frames with visible objects: 1
+root - INFO - No objects visible
+root - INFO - Frames with visible objects: 2
+root - INFO - Frames with visible objects: 3
+root - INFO - Frames with visible objects: 4
+root - INFO - No objects visible
+root - INFO - Frames with visible objects: 5
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - Frames with visible objects: 6
+root - INFO - Frames with visible objects: 7
+root - INFO - Frames with visible objects: 8
+root - INFO - Frames with visible objects: 9
+root - INFO - Frames with visible objects: 10
+root - INFO - Frames with visible objects: 11
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - SECOND : 2
+root - INFO - [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {'person': 1}, {}, {'person': 1}, {'person': 1}, {'person': 1}, {}, {'person': 1}, {}, {}, {}, {}, {}, {'person': 2}, {'person': 1}, {'person': 1}, {'person': 1}, {'person': 1}, {'person': 1}, {}, {}]
+root - INFO - Frames with visible objects: 12
+root - INFO - Frames with visible objects: 13
+root - INFO - Frames with visible objects: 14
+root - INFO - Frames with visible objects: 15
+root - INFO - Frames with visible objects: 16
+root - INFO - Frames with visible objects: 17
+root - INFO - Frames with visible objects: 18
+root - INFO - No objects visible
+root - INFO - No objects visible
+root - INFO - Frames with visible objects: 19
+root - INFO - Frames with visible objects: 20
+root - INFO - Frames with visible objects: 21
+root - INFO - Frames with visible objects: 22
+root - INFO - Frames with visible objects: 23
+root - INFO - Frames with visible objects: 24
+root - INFO - Frames with visible objects: 25
+root - INFO - Frames with visible objects: 26
+root - INFO - Frames with visible objects: 27
+root - INFO - Frames with visible objects: 28
+root - INFO - Frames with visible objects: 29
+root - INFO - Frames with visible objects: 30
+root - INFO - Frames with visible objects: 31
+root - INFO - Frames with visible objects: 32
+root - INFO - Frames with visible objects: 33
+root - INFO - Frames with visible objects: 34
+root - INFO - Frames with visible objects: 35
+root - INFO - Frames with visible objects: 36
+root - INFO - Frames with visible objects: 37
+root - INFO - Frames with visible objects: 38
+root - INFO - Frames with visible objects: 39
+root - INFO - SECOND : 3
+root - INFO - [{'person': 2}, {'person': 1}, {'person': 1}, {'person': 1}, {'person': 2}, {'person': 3}, {'person': 2}, {}, {}, {'person': 2}, {'person': 1}, {'person': 2}, {'person': 1}, {'person': 2}, {'person': 2}, {'person': 2}, {'person': 3}, {'person': 3}, {'person': 5}, {'person': 2}, {'person': 3}, {'person': 3}, {'person': 4}, {'person': 2}, {'person': 2}, {'person': 2}, {'person': 3}, {'person': 3}, {'person': 1}, {'person': 2}]
+root - INFO - Video duration: 3 seconds
+root - INFO - Object visible for 1.3 seconds
