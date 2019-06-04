@@ -1,6 +1,6 @@
 # Kaunas Coding School project
 
-Aim of this project is to create Python program to measure how long a logo is visible in a given video.
+Aim of this project is to create Python program to measure the duration an object is visible in a given video.
 
 ### Important!
 **Python version 3.6 is needed. (Tensorflow only supports python up to 3.6)**
