@@ -1,4 +1,6 @@
-# Kaunas Coding School project
+# Video Content Duration Measuring Tool
+
+This project was created during Kaunas Coding School course.
 
 Aim of this project is to create Python program to measure the duration an object is visible in a given video.
 
