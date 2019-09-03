@@ -14,24 +14,25 @@ Aim of this project is to create Python program to measure the duration an objec
 Tensorflow 
 `pip install tensorflow` or ```pip install tensorflow-gpu``` for the gpu powered version
 
-Numpy
+Numpy (Optional)
 `pip install numpy`
-	
-SciPy
+
+SciPy (Optional)
 `pip install scipy`
-	
+
 OpenCV
 `pip install opencv-python`
-	
+
 Matplotlib
 `pip install matplotlib`
-	
-h5py
-`pip install h5py`
-	
+
 Keras
 `pip install keras`
-	
+
+h5py
+`pip install h5py`
+(Usually h5py is installed automatically with Keras)
+
 Pillow
 `pip install pillow`
 	
