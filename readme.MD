@@ -10,35 +10,7 @@ Aim of this project is to create Python program to measure the duration an objec
 **How to run**
 
 1. Install the following libraries:
-	
-Tensorflow 
-`pip install tensorflow` or ```pip install tensorflow-gpu``` for the gpu powered version
-
-Numpy (Optional)
-`pip install numpy`
-
-SciPy (Optional)
-`pip install scipy`
-
-OpenCV
-`pip install opencv-python`
-
-Matplotlib
-`pip install matplotlib`
-
-Keras
-`pip install keras`
-
-h5py
-`pip install h5py`
-(Usually h5py is installed automatically with Keras)
-
-Pillow
-`pip install pillow`
-	
-ImageAI
-`pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl`
-
+	`pip install -r requirements.txt
 2. If you have your own model for detecting objects, add the model file to the same folder as the project and change the following line:
 `detector.setModelPath(execution_path + "\\your_model.h5")`
 
